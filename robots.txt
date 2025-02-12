@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://joonsu0109.github.io/blog/./sitemap.xml
+User-agent: * Disallow: Sitemap: https://joonsu0109.github.ioblank/sitemap.xml
